@@ -13,4 +13,4 @@ Fun fact #1: When GitHub decided to use `https://github.com/<username>/<username
 Fun fact #2: Relative URLs don't work in your profile page. 
 
 <!-- footnotes -->
-[^1]: Provided by 3rd party service [GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app), whose source code is at [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards). The availability and authenticity of information in this section is not guaranteed.
+[^1]: Provided by 3rd party service [GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app) ([source](https://github.com/vn7n24fzkq/github-profile-summary-cards)). The availability and authenticity of information in this section is not guaranteed.
